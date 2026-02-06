@@ -2,9 +2,9 @@
 
 ### A Metatheory For Set Theory and Category Theory
 
-Author: ESr 
-Version: v1.0 
-Date: 2026.02.04
+Author: ESr<br> 
+Version: v1.0<br> 
+Date: 2026.02.04<br>
 
 ------
 
