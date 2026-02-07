@@ -25,6 +25,8 @@ Particle physics (quantum mechanics) and cosmology (General Relativity) collect 
 *  Appendix 1: Counter Arguments
 *  Appendix 2: Integration Theory
 *  Appendix 3: Bohr's Reaction
+  
+------
 
 # 1. Introduction
 
