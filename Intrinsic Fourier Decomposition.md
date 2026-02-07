@@ -13,7 +13,9 @@ Date: 2026.02.06
 
 Particle physics (quantum mechanics) and cosmology (General Relativity) collect data at radically different exposure times — nanoseconds versus hours or days. This difference constitutes a *de facto* Fourier decomposition imposed by nature itself, not by theorists. This paper introduces Intrinsic Fourier Decomposition (IFD) to name this unrecognized filtering. Within the Fourier framework, signals separated into different frequency bands require integration (addition), not unification (a single semantic theory). The entire Theory of Everything program — including String Theory — may therefore rest on a category error: attempting to unify what nature has already decomposed.
 
-# Introduction
+### Contents
+
+# 1. Introduction
 
 This paper presents an ***audit***
 of the current scientific process
