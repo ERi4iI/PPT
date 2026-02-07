@@ -4,7 +4,7 @@
 
 ### Integration vs. Unification of Quantum Mechanics and General Relativity 
 
-Author: Eugene S. Paik Sr.
+Author: Eugene S. Paik Sr.<br>
 Date: 2026.02.06
 
 ------
@@ -522,4 +522,4 @@ nor cosmic scale in the near past.
 
 This is an epistemical limitation
 that current ontological theories
-imply.
+implies.
