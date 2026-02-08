@@ -18,18 +18,18 @@ Bohr's Principle of Complementarity:
 
 ## Format
 
-These papers are intended as ***transmission** articles*
-for conveying novel foundational concepts
-to those who're hungry & ready for new perspectives
+These papers are intended as ***transmission** articles*<br>
+for conveying novel foundational concepts<br>
+to those who're hungry & ready for new perspectives<br>
 on the epistemic limits of objective science.
 
-These papers are not journal articles
+These papers are not journal articles<br>
 but are intended to inspire them.
 
 ## Goal 
 
 I am an independent researcher<br>
-without institution affiliation.
+without institutional affiliation.
 
 I am seeking **co-authors** interested in<br>
 transforming these papers for journal publications.
