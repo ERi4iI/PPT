@@ -1,10 +1,12 @@
 ## Contents
 
-Meta Set Theory -
+The following papers represents the groundwork for formalizing Bohr's Principle of Complementarity:
 
-Provenantial Perspective Theory -
+* Meta Set Theory - Extending Gödelian Incompleteness to Our Understanding of the Limits of Our Understanding of Our Cosmos
 
-Intrinsic Fourier Decomposition - 
+* Provenantial Perspective Theory - A Metatheory For Set Theory and Category Theory
+
+* Intrinsic Fourier Decomposition - Integration vs. Unification of Quantum Mechanics and General Relativity
 
 ## Format
 
